@@ -44,3 +44,18 @@ Dialogs [sic]:
 * [::backdrop pseudo-element for dialogs](https://developer.mozilla.org/en-US/docs/Web/CSS/::backdrop)
 * [Can I use showModel](https://caniuse.com/?search=showModal)
 
+## Questions
+
+## Should I use literate unicode characters or entities?
+
+In Summary: enter them directly.
+
+* [HTML5: which is better - using a character entity vs using a character directly?](https://stackoverflow.com/questions/9808098/html5-which-is-better-using-a-character-entity-vs-using-a-character-directly)
+* [Google HTML Style Guide](https://google.github.io/styleguide/htmlcssguide.html#Entity_References)
+* [The q element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-q-element) (whatwg spec)
+
+Some lists of entities:
+
+* [Common HTML entities used for typography](https://www.w3.org/wiki/Common_HTML_entities_used_for_typography) (w3c)
+* [HTML codes and HTML special characters: The complete list](https://psdtowp.net/html-codes-special-characters.html) — very comprehensive list, especially covering languages
+
