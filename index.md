@@ -29,6 +29,26 @@ Interesting articles:
 * [Why You Should Choose HTML5 article Over section](https://www.smashingmagazine.com/2020/01/html5-article-section/)
 	* WatchOS reads web pages! [Designing Web Content for watchOS](https://developer.apple.com/videos/play/wwdc2018/239/?time=349) (video)
 
+## Guides and Games for Flex and Grid and Media Queries
+
+Flex:
+
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://juliansci.github.io/css-flexbox-simulator/
+* https://flexboxfroggy.com/
+
+Grid:
+
+* https://cssgridgarden.com/
+* https://css-tricks.com/snippets/css/complete-guide-grid/
+
+Media Queries:
+
+* https://css-tricks.com/a-complete-guide-to-css-media-queries/
+* https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+* http://cssmediaqueries.com/overview.html
+* https://ui.dev/rwd/articles/why-you-dont-need-device-specific-breakpoints
+
 ## Accessibility
 
 * [contrast ratio](https://contrast-ratio.com/)
@@ -46,7 +66,7 @@ Dialogs [sic]:
 
 ## Questions
 
-## Should I use literate unicode characters or entities?
+### Should I use literate unicode characters or entities?
 
 In Summary: enter them directly.
 
@@ -58,4 +78,26 @@ Some lists of entities:
 
 * [Common HTML entities used for typography](https://www.w3.org/wiki/Common_HTML_entities_used_for_typography) (w3c)
 * [HTML codes and HTML special characters: The complete list](https://psdtowp.net/html-codes-special-characters.html) — very comprehensive list, especially covering languages
+
+### How does margin collapsing work?
+
+And how to avoid it?
+
+* [CSS margin terror; Margin adds space outside parent element](https://stackoverflow.com/questions/13573653/css-margin-terror-margin-adds-space-outside-parent-element/42069793)
+* [Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/) (Smashing magazine)
+
+### How do I consistently style form input elements?
+
+* [Advanced form styling](https://developer.mozilla.org/en-US/docs/Learn/Forms/Advanced_form_styling)
+
+### What is BEM, and why?
+
+* https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+* https://www.smashingmagazine.com/2014/07/bem-methodology-for-small-projects/
+
+### What order should CSS rules be in?
+
+* https://9elements.com/css-rule-order/
+* http://web.simmons.edu/~grabiner/comm244/weekfour/css-concepts.html
+* https://css-tricks.com/precedence-css-order-css-matters/
 
